@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28d451bb-57f8-41ce-afee-4945ad6000b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/es/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/bibliography/2018-12-22-distill.bib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/academicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/bootstrap-toc.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/jekyll-pygments-themes-github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/jekyll-pygments-themes-native.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/jupyter-grade3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/jupyter-monokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/jupyter.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/mdb.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/css/mdb.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/fonts/academicons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/fonts/academicons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/1x1/ar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/1x1/br.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/1x1/en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/1x1/es.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/1x1/us.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/4x3/ar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/4x3/br.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/4x3/en.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/4x3/es.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/flags/4x3/us.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/pagespeed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/publication_preview/brownian-motion-480.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/publication_preview/brownian-motion-800.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/publication_preview/brownian-motion.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/publication_preview/wave-mechanics-480.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/publication_preview/wave-mechanics-800.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/img/publication_preview/wave-mechanics.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/bootstrap-toc.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/copy_code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/distillpub/overrides.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/distillpub/template.v2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/distillpub/template.v2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/distillpub/transforms.v2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/distillpub/transforms.v2.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/masonry.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/mdb.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/mdb.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/no_defer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/js/zoom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/json/resume_en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/json/resume_es.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/json/table_data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/jupyter/blog.ipynb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/pdf/example_pdf.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/plotly/demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-brands-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-brands-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-regular-400.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-regular-400.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-solid-900.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-solid-900.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-v4compatibility.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/assets/webfonts/fa-v4compatibility.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/2022/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/2022/redirect/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/2024/code-diff/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/2024/creating-snippet-in-pycharm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/2024/docker-cheatsheet/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/2024/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/category/docker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/category/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/category/sample-posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/code/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/docker-compose/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/docker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/formatting/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/tag1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/tag2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/blog/tag/tagn/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/cv/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/assets/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/assets/jupyter/blog.ipynb.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/2024/creating-snippet-in-pycharm/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/2024/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/category/posts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/tag/tag1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/tag/tag2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/blog/tag/tagn/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/cv/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/es/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/feed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/es/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2enAew5UouuyznVduy7ir7R4P9r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/leok/Projects/_site"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28d451bb-57f8-41ce-afee-4945ad6000b2" name="Changes" comment="" />
+      <created>1712530066237</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712530066237</updated>
+    </task>
+    <servers />
+  </component>
+</project>

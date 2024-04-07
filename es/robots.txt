@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://leokarian.github.io/es/sitemap.xml
